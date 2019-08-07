@@ -1,0 +1,4 @@
+RELEASE/
+DEBUG/
+*.vcxproj*
+ClassDiagram.cd
